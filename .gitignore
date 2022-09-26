@@ -1,0 +1,3 @@
+#con esto hacemos comentarios
+#vamos a indicar que los archivos .md los ignore 
+*.md 
